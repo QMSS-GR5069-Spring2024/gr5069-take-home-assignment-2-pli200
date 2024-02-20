@@ -1,4 +1,4 @@
-# HOMEWORK # 1
+# HOMEWORK # 1 MUUA
 
 **Objective:** This homework exercise is intended to start getting you comfortable with **multi-person collaboration in GitHub**. :octocat:
 
